@@ -1,2 +1,2 @@
 # Basic Uniswap Integration Environment
-Learn to build your first on chain integration here: https://uniswap.org/blog/your-first-uniswap-integration. 
+This is a quick project to interact with UniSwap
